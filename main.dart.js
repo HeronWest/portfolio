@@ -90563,7 +90563,7 @@ a9(){return new A.UB(B.i)}}
 A.UB.prototype={
 J(a){var s=this,r=null,q=A.cn(0,300,0),p=s.d,o=s.a
 p=p?o.d.b*0.42:o.d.b*0.4
-return A.fN(r,A.k2(A.auP(A.mE(A.cL(16),A.ug(o.c,r)),B.jF,r,q,p,r,r),B.c0,new A.amF(s),new A.amG(s),r),B.a8,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.amH(s,a),r,r,r)},
+return A.fN(r,A.k2(A.auP(A.mE(A.cL(16),A.ug("assets/"+o.c,r)),B.jF,r,q,p,r,r),B.c0,new A.amF(s),new A.amG(s),r),B.a8,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.amH(s,a),r,r,r)},
 agQ(a,b){A.aug(new A.amC(b),a,t.z)}}
 A.amH.prototype={
 $0(){var s=this.a
@@ -90585,7 +90585,7 @@ $0(){return this.a.d=!1},
 $S:0}
 A.amC.prototype={
 $1(a){var s=null
-return A.avd(s,B.y,A.fN(s,A.bs(s,A.ug(this.a,B.mG),B.l,s,s,s,s,1/0,s,s,s,s,s,1/0),B.a8,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.amB(a),s,s,s),B.l,s,new A.as(10,10,10,10),s,s,s)},
+return A.avd(s,B.y,A.fN(s,A.bs(s,A.ug("assets/"+this.a,B.mG),B.l,s,s,s,s,1/0,s,s,s,s,s,1/0),B.a8,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.amB(a),s,s,s),B.l,s,new A.as(10,10,10,10),s,s,s)},
 $S:508}
 A.amB.prototype={
 $0(){return A.ly(this.a,!1).e9()},
